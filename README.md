@@ -53,10 +53,12 @@ plt.show()
 ```
 ### OUTPUT:
 
+![Screenshot 2024-09-23 113409](https://github.com/user-attachments/assets/c13295d3-3245-46ce-b361-77d8dcd23fe7)
 
 
 #### Autocorrelation Function (ACF) of Minimum Price of Onion
 
+![Screenshot 2024-09-23 113419](https://github.com/user-attachments/assets/9beee5e3-e21c-4483-8722-6fda7e915874)
 
 
 
